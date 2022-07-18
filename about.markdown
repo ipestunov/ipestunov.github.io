@@ -8,7 +8,7 @@ Hello world!
 
 # Thinking tools
 
-Omnifocus • Drafts • DevonTHINK • MindNode
+Omnifocus • Drafts • DevonTHINK • MindNode • LogSeq • Roam Research • Muse
 
 # Linkroll
 

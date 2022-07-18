@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ivan Pestunov
-email: ivan@ipestunov.me
+email: ipestunov@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The best time to start a blog was 20 years ago. The second best time is now.
+  –
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ipestunov.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://ipestunov.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
